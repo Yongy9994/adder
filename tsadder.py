@@ -175,7 +175,7 @@ print(f'{info}{lg} CSV file distribution complete{rs}')
 time.sleep(2)
 clr()
 if not os.name == 'nt':
-    print(f'{error}{r} Automation supports only Windows systems')
+    print ( f' { error }{ r } Otomatisasi hanya mendukung sistem android' )
     sys.exit()
 
 program = 'usradder.py'
