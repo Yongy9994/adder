@@ -12,7 +12,7 @@
 * ADDS IN BULK[by username]
 * Scrapes and adds to public groups
 * Adds 50-60 members on an average
-*bekerja di sistem Android
+* bekerja di sistem Android
 * Anda dapat menjalankan akun tanpa batas secara bersamaan untuk menambah anggota
 * File CSV auto-distributor berdasarkan jumlah akun yang akan digunakan
 * Alat pengikis yang kuat yang dapat mengikis anggota aktif dari grup publik mana pu
