@@ -12,11 +12,11 @@
 * ADDS IN BULK[by username]
 * Scrapes and adds to public groups
 * Adds 50-60 members on an average
-* Works in Windows systems
-* You can run unlimited accounts at the same time in order to add members
-* CSV files auto-distributer based on number of accounts to use
-* Powerful scraping tool that can scrape active members from any public group
-* You can add members both by username and by user ID
+*bekerja di sistem Android
+* Anda dapat menjalankan akun tanpa batas secara bersamaan untuk menambah anggota
+* File CSV auto-distributor berdasarkan jumlah akun yang akan digunakan
+* Alat pengikis yang kuat yang dapat mengikis anggota aktif dari grup publik mana pu
+* Anda dapat menambahkan anggota baik dengan nama pengguna dan ID pengguna
 * Least chances of account ban
 * Script auto-joins public group from all accounts for faster adding
 * Filters banned accounts and remove them, making things easy
