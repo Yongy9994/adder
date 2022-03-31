@@ -1,0 +1,10 @@
+buka CMD lalu ketikkan:
+pip install telethon
+pip install keyboard
+pip install colorama
+pip install pyfiglet
+pip install requests
+
+JALANKAN "MANAGER" UNTUK LOGIN AKUN
+JALANKAN "SCRAPER" UNTUK SCRAPING GRUP
+JALANKAN "TSADDER" UNTUK MENAMBAHKAN
